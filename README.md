@@ -26,7 +26,6 @@
 - **Бекенд**: Node.js, Express, hbs
 - **Базы данных**: PostgreSQL, Sequelize ORM
 
-### GitHub cтатистика:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexsandraTerenteva&show_icons=true&include_all_commits=true)](https://github.com/AlexsandraTerenteva/github-readme-stats)
+
 
 ---
